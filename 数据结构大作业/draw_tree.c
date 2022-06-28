@@ -1,3 +1,4 @@
+// 此文件为AVL树中用到的子函数
 #include<stdio.h>
 #define bool int
 #define true 1
